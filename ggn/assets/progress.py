@@ -5,8 +5,8 @@ import json
 from ggn.assets.functions import TimeFormatter, humanbytes
 
 #------
-FINISHED_PROGRESS_STR = "🟢"
-UN_FINISHED_PROGRESS_STR = "🔴"
+FINISHED_PROGRESS_STR = "≈≈"
+UN_FINISHED_PROGRESS_STR = "≉≉"
 DOWNLOAD_LOCATION = "/app"
 
 
